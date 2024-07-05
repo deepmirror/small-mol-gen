@@ -99,7 +99,7 @@ typed-argument-parser==1.7.2
 typing-extensions==4.7
 typing-inspect==0.8.0
 urllib3==1.26.14
-werkzeug==2.2.3
+werkzeug==3.0.3
 wheel==0.38.4
 xarray==2023.2.0
 xxhash==3.4.1
