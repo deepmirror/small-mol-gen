@@ -28,7 +28,7 @@ google-auth==2.16.2
 google-auth-oauthlib==0.4.6
 grpcio==1.51.3
 hyperopt==0.2.7
-idna==3.4
+idna==3.7
 imagesize==1.4.1
 iniconfig==2.0.0
 itsdangerous==2.1.2
