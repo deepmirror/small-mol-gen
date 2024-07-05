@@ -1,3 +1,16 @@
+# Ignore .smi files
+*.smi
+.pre-commit-config.yaml
+pyproject.toml
+_sampling.json
+.vscode/
+tb_logs/
+output/
+
+# Ignore db or .gz files
+*.db
+*.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
