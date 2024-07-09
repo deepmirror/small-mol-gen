@@ -14,7 +14,7 @@ alabaster==0.7.13
 attrs==22.2.0
 babel==2.12.1
 cachetools==5.3.0
-certifi==2022.12.7
+certifi==2024.7.4
 charset-normalizer==3.1.0
 chemprop==1.5.2
 click==8.1.3
