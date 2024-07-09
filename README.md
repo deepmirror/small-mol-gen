@@ -8,7 +8,9 @@ Small-Mol-Gen is for the generation of small molecules using different AI and ma
 
 To set up the Small-Mol-Gen environment, follow these steps below. Please note that we ran the code based on macOS. If you're having any issues configuring, please reach out.
 
-1. **Create a Conda Environment**
+Certainly! Here's how you can include the Conda install command in your steps:
+
+1. **Create a New Conda Environment**
 
    Create a new Conda environment named `small-mol-gen` with Python 3.10:
 
@@ -22,6 +24,14 @@ To set up the Small-Mol-Gen environment, follow these steps below. Please note t
 
    ```bash
    conda activate small-mol-gen
+   ```
+
+3. **Install `lilly-medchem-rules`**
+
+   Install the `lilly-medchem-rules` package from the `conda-forge` channel:
+
+   ```bash
+   conda install -c conda-forge lilly-medchem-rules
    ```
 
 3. **Install Required Packages**
