@@ -5,8 +5,6 @@ pyproject.toml
 _sampling.json
 .vscode/
 tb_logs/
-results/**/*
-results/
 
 # Ignore db or .gz files
 *.db
