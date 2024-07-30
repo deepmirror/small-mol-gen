@@ -31,7 +31,7 @@ funcy==1.18
 future==0.18.3
 google-auth==2.16.2
 google-auth-oauthlib==0.4.6
-grpcio==1.51.3
+grpcio==1.53.2
 hyperopt==0.2.7
 idna==3.4
 imagesize==1.4.1
